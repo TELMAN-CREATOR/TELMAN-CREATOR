@@ -1,6 +1,7 @@
-<h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F7F7F7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+am+Telman+Bayramov;Java+Backend+Developer" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=F7F7F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+am+Telman+Bayramov!;Java+Backend+Developer!" />
 </h1>
+
 
 
 - 🔹 Ask me about **Java, Spring Boot, Spring Data +JPA, Spring Security + JWT, Spring MVC, REST APIs**  
