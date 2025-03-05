@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Telman Bayramov</h1>
 <h3 align="center">Junior Java Backend Developer</h3>
 
-- 🔹 Ask me about **Java, Spring Boot, REST APIs**  
-- ✉️ How to reach me: **your-email@example.com**  
-- 🌍 Languages I can speak: **English, Turkish, Azerbaijani**  
+- 🔹 Ask me about **Java, Spring Boot, Spring Data +JPA, Spring Security + JWT, Spring MVC, REST APIs**  
+- ✉️ How to reach me: **telmanbayram1@gmail.com**  
+- 🌍 Languages I can speak: **English,Russian, Turkish, Azerbaijani**  
 
 ---
 
 ### 🔗 Socials:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telman-bayramov-373503289/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TELMAN-CREATOR)
 
 ---
