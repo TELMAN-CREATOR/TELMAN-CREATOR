@@ -1,10 +1,7 @@
-<h1 align="center">
+<h1 align="left">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F7F7F7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+am+Telman+Bayramov;Java+Backend+Developer" />
 </h1>
 
-
-<h1 align="center">Hi 👋, I'm Telman Bayramov</h1>
-<h3 align="center">Junior Java Backend Developer</h3>
 
 - 🔹 Ask me about **Java, Spring Boot, Spring Data +JPA, Spring Security + JWT, Spring MVC, REST APIs**  
 - ✉️ How to reach me: **telmanbayram1@gmail.com**  
