@@ -1,0 +1,40 @@
+<h1 align="center">Hi 👋, I'm Telman Bayramov</h1>
+<h3 align="center">Junior Java Backend Developer</h3>
+
+- 🔹 Ask me about **Java, Spring Boot, REST APIs**  
+- ✉️ How to reach me: **your-email@example.com**  
+- 🌍 Languages I can speak: **English, Turkish, Azerbaijani**  
+
+---
+
+### 🔗 Socials:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TELMAN-CREATOR)
+
+---
+
+### 🛠 Languages and Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TELMAN-CREATOR&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TELMAN-CREATOR&theme=tokyonight" />
+</p>
+
+---
+
+🔥 **Total Contributions**  
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TELMAN-CREATOR&theme=github_dark)
+
+---
