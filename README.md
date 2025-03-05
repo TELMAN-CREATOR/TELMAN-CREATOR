@@ -3,13 +3,21 @@
 
 - 🔹 Ask me about **Java, Spring Boot, Spring Data +JPA, Spring Security + JWT, Spring MVC, REST APIs**  
 - ✉️ How to reach me: **telmanbayram1@gmail.com**  
-- 🌍 Languages I can speak: **English,Russian, Turkish, Azerbaijani**  
+- 🌍 Languages I can speak: **English, Russian, Turkish, Azerbaijani**  
 
 ---
 
 ### 🔗 Socials:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telman-bayramov-373503289/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/telman-bayramov-373503289)
+
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TELMAN-CREATOR)
+
+---
+
+## 🧐 About Me  
+- 🔹 Passionate about backend development and microservices.  
+- ⚡ Always learning and exploring new technologies.  
+- 🚀 Looking for opportunities to contribute and grow as a Java Developer.  
 
 ---
 
