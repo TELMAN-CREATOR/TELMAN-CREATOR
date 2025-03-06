@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=38&color=F7F7F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+am+Telman+Bayramov!;Jr.+Java+Backend+Developer!;Bir+Kalbim+Var!;Sen+onu+bes+parcaya+bolersen!;Seni+seven+bes+parca+olur!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=38&color=F7F7F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+am+Telman+Bayramov!;Jr.+Java+Backend+Developer!;Bir+Kalbim+Var!;Sen+onu+bes+parcaya+bolersen;Seni+seven+bes+parca+olur!" />
 </h1>
 
 
