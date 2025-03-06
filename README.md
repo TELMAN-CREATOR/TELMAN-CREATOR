@@ -41,9 +41,10 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img width="48%" style="object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=TELMAN-CREATOR&show_icons=true&theme=tokyonight" />
-  <img width="48%"  style="object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com/?user=TELMAN-CREATOR&theme=tokyonight" />
+  <img width="48%" height="250" style="object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=TELMAN-CREATOR&show_icons=true&theme=tokyonight" />
+  <img width="48%" height="250" style="object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com/?user=TELMAN-CREATOR&theme=tokyonight" />
 </p>
+
 
 
 
