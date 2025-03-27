@@ -13,7 +13,8 @@
 ---
 
 ### 🔗 Socials:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/telman-bayramov-373503289)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/telman-b-373503289/)
+
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TELMAN-CREATOR)
 
@@ -45,6 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Cucumber_Logo.png" alt="cucumber" width="40" height="40"/>
   <img src="https://seeklogo.com/images/T/testng-logo-855B9D465B-seeklogo.com.png" alt="testng" width="40" height="40"/>
+  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="40" height="40"/>
 </p>
 
 
