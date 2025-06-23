@@ -6,7 +6,7 @@
 
 
 
-- 🔹 Ask me about **Java, Spring Boot, Spring Data +JPA, Spring Security + JWT, Spring MVC, REST APIs**  
+- 🔹 Ask me about **Java, Spring Boot, Spring Data +JPA, Selenium WebDriver, Cucumber, TestNG, Postman, Rest Assured, Jenkins,  Spring MVC, REST APIs**  
 - ✉️ How to reach me: **telmanbayram1@gmail.com**  
 - 🌍 Languages I can speak: **English, Russian, Turkish, Azerbaijani**  
 
@@ -21,9 +21,9 @@
 ---
 
 ## 🧐 About Me  
-- 🔹 Passionate about backend development and microservices.  
+- 🔹 Passionate about backend development and Automation Testing.  
 - ⚡ Always learning and exploring new technologies.  
-- 🚀 Looking for opportunities to contribute and grow as a Java Developer.  
+- 🚀 Looking for opportunities to contribute and grow as a QA Automation Engineer.  
 
 ---
 
